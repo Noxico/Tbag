@@ -1,0 +1,91 @@
+Bent over doggy style you open your eyes to see dis big ass crib. "that hoe higher then my 
+stacks of bread" , you say as you stand to your feet.Turning around and observing your 
+enviorment you see a mail box, a car , and a giant hedge maze. atop the hood of the car 
+you see your hat.
+
+ need to find keys 
+ to go thru maze need to use car
+ mail box gives first clue
+ have a note saying to check the mail box
+ discription of masnion exterioir
+ hedge maze gate requires car dooor opener thing
+ 
+ 
+ living room 
+ 	out side
+ 	kitchen
+ 	upstairs
+ 	spare bedroom
+ 
+ kitchen
+ 	living room
+ 	laundry room
+ 	pantry
+ 	gradge
+ 	
+ spare bedroom
+ 	living room
+ 	bathroom a
+ 	closet a
+ 	null
+ 
+ upstaris
+ 	living room
+ 	master bedroom
+ 	pool room
+ 	grow room
+ 
+ outside
+	living room
+	gradge
+	hedge maze
+	
+master bedroom
+	bathroom b
+ 	closet b
+ 	deck 
+ 	upstairs
+ 	
+ deck
+ 	master bedroom
+ 	
+ pantry
+ 	kitchen
+ 	grow room
+ 	
+ grdage
+ 	outside
+ 	kitchen
+ 
+ closet a
+ 	spare bedroom
+ 
+ closet b
+ 	master bedroom
+ 
+ laundry room
+ 	kitchen
+ 	secret area a
+ 
+ bathroom a
+ 	spare bedroom
+ 
+ bathroom b
+ 	master bedroom
+ 
+ pool room
+ 	basement
+ 	
+ grow room
+ 	pantry 
+ 	upstiars
+ 	
+ hedge maze
+ 	outside
+ 
+ basement
+ 	pool room
+ 	
+	
+ 
+ 	
