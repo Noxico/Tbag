@@ -3,12 +3,14 @@
 
 #include <iostream>
 #include <string>
+#include "../h/StringHandler.h"
 
 using namespace std;
 class CommandWords
 {
-	string commandWords[8] =
-	{ "quit", "help", "go", "north", "south", "east", "west", "pickup" };
+private:
+	string commandWords;
+	StringHandler sh;
 public:
 	CommandWords();
 	bool isValidCommand(string command);
