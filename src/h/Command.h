@@ -8,7 +8,8 @@ using namespace std;
 class Command
 {
 private:
-	string word1 = NULL, word2 = NULL;
+	string word1;
+	string word2;
 public:
 	Command(string word1, string word2);
 	Command(string command);
