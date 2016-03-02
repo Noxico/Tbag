@@ -12,6 +12,7 @@ class StringHandler
 {
 public:
 	bool comp(string a, string b);
+	bool contains(string s, string c);
 	bool caselesscomp(string a, string b);
 };
 
